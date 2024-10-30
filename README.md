@@ -5,5 +5,3 @@
 ![img](imgs/04.png)
 ![img](imgs/05.png)
 ![img](imgs/06.png)
-![img](imgs/07.png)
-![img](imgs/08.png)
